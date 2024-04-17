@@ -3,7 +3,7 @@
 - 
 - 🌱 I’m currently learning HTML and CSS
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: Started with programmation with 14 years old ;) (2 years ago)
+- ⚡ Fun fact: Started with programmation with 14 years old ;)
 
 <!---
 ProgrammerUS/ProgrammerUS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
