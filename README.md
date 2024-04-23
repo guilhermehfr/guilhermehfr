@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Guilherme Henrique
-- 👀 I’m interested in front-end
+- 👀 I’m interested in coding
 - 
 - 🌱 I’m currently learning HTML and CSS
 - 😄 Pronouns: He/him
