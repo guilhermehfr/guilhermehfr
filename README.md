@@ -11,12 +11,24 @@
 ![GIT](https://img.shields.io/badge/-GIT-000?&logo=git)
 ![Github](https://img.shields.io/badge/-Github-000?&logo=GitHub)
 
-### Projetos
 
-[![](https://img.shields.io/badge/-🚀%20Meu%20Website-000)](https://github.com/ProgrammerUS/Projeto-Site) 
-
-
-<a href="https://github.com/ProgrammerUS">
+<a href="https://github.com/ProgrammerUS"></a>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerUS&layout=compact&langs_count=7&theme=tokyonight"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ProgrammerUS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
+
+## Onde me encontrar
+
+
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=guilhermehenrique7273@gmail.com" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-henrique-9208162a9/" alt="LinkedIn"/></a>
+  <a href="#" title="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=61566922061917" alt="Facebook"/></a>
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/guilherme.hze/" alt="Instagram"/></a>
+</p>
+
+
+
