@@ -10,6 +10,7 @@
 
 ![GIT](https://img.shields.io/badge/-GIT-000?&logo=git)
 ![Github](https://img.shields.io/badge/-Github-000?&logo=GitHub)
+![Trello](https://img.shields.io/badge/-Trello-000?style=flat&logo=trello&logoColor=007ACC)
 
 
 <a href="https://github.com/ProgrammerUS"></a>
@@ -22,7 +23,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-guihenrique.bra@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guihenrique.bra@gmail.com)](mailto:guihenrique.bra@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/guilherme.hze/)](https://www.instagram.com/guilherme.hze/)
 [![Facebook](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=61566922061917)](https://www.facebook.com/profile.php?id=61566922061917)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/ProgrammerUS)
+[![GitHub](https://img.shields.io/badge/-Github-000?style=flat-square&labelColor=000&logo=github&logoColor=white&link=https://github.com/ProgrammerU)](https://github.com/ProgrammerUS)
 
 
 
