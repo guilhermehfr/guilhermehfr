@@ -16,19 +16,14 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerUS&layout=compact&langs_count=7&theme=tokyonight"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ProgrammerUS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-## Onde me encontrar
+### Onde me encontrar
 
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-henrique-9208162a9/)](https://www.linkedin.com/in/guilherme-henrique-9208162a9/)
+[![Gmail Badge](https://img.shields.io/badge/-guihenrique.bra@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guihenrique.bra@gmail.com)](mailto:guihenrique.bra@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/guilherme.hze/)](https://www.instagram.com/guilherme.hze/)
+[![Facebook](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=61566922061917)](https://www.facebook.com/profile.php?id=61566922061917)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/ProgrammerUS)
 
-<p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=guilhermehenrique7273@gmail.com" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-henrique-9208162a9/" alt="LinkedIn"/></a>
-  <a href="#" title="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=61566922061917" alt="Facebook"/></a>
-  <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/guilherme.hze/" alt="Instagram"/></a>
-</p>
 
 
 
