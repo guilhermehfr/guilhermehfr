@@ -26,7 +26,7 @@ Sou um **Desenvolvedor Web** e moro atualmente no Brasil, mostro aqui todos meus
 [![Gmail Badge](https://img.shields.io/badge/-guihenrique.bra@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guihenrique.bra@gmail.com)](mailto:guihenrique.bra@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/guilherme.hze/)](https://www.instagram.com/guilherme.hze/)
 [![Facebook](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=61566922061917)](https://www.facebook.com/profile.php?id=61566922061917)
-[![GitHub](https://img.shields.io/badge/-Github-70a5fd?style=flat-square&labelColor=000&logo=github&logoColor=white&link=https://github.com/ProgrammerU)](https://github.com/ProgrammerUS)
+[![GitHub](https://img.shields.io/badge/-Github-70a5fd?style=flat-square&labelColor=000&logo=github&logoColor=white&link=https://github.com/guilhermehfr)](https://github.com/guilhermehfr)
 
 
 
