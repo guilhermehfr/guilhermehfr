@@ -16,7 +16,6 @@ Sou um **Desenvolvedor Web** e moro atualmente no Brasil, mostro aqui todos meus
 
 ### Projetos
 [![Interface Login](https://img.shields.io/badge/-🔐%20Interface%20Login-black?style=flat-square&link=https://github.com/guilhermehfr/interface-login)](https://github.com/guilhermehfr/interface-login)
-[![Interface Login](https://img.shields.io/badge/-🎃%20Página%20Halloween-black?style=flat-square&link=https://github.com/guilhermehfr/halloween-page)](https://github.com/guilhermehfr/halloween-page)
 
 <a href="https://github.com/ProgrammerUS"></a>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermehfr&layout=compact&langs_count=7&theme=tokyonight"/>
