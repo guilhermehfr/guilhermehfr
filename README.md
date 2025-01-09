@@ -1,5 +1,5 @@
 <!--[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://www.adamalston.com/) If you want the template for my gif, email me! --> <!-- [TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript) -->
-## Olá, eu sou o Guilherme
+## Olá, eu sou o Guilherme.
 Sou um **Desenvolvedor Web** e estou atualmente no Brasil, mostro aqui todos meus projetos e estudos!<br>saiba um pouco mais sobre mim... 
  
 ### Linguagens e Tecnologias
