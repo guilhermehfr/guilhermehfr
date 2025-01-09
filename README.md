@@ -2,14 +2,11 @@
 ## Olá, eu sou o Guilherme
 Sou um **Desenvolvedor Web** e moro atualmente no Brasil, mostro aqui todos meus projetos e estudos!<br>saiba um pouco mais sobre mim... 
  
-### Linguagens
+### Linguagens e Tecnologias
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Html](https://img.shields.io/badge/-HTML5-000?&logo=html5)
 ![Css](https://img.shields.io/badge/-CSS3-000?&logo=css3)
-
-### Tecnologias
-
 ![GIT](https://img.shields.io/badge/-GIT-000?&logo=git)
 ![Github](https://img.shields.io/badge/-Github-000?&logo=GitHub)
 ![Trello](https://img.shields.io/badge/-Trello-000?style=flat&logo=trello&logoColor=007ACC)
