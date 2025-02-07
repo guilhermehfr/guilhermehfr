@@ -1,9 +1,12 @@
 <!--[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://www.adamalston.com/) If you want the template for my gif, email me! --> <!-- [TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript) -->
-## Olá, eu sou o Guilherme 👋
-Sou um **Desenvolvedor Web** e trabalho atualmente no Brasil, mostro aqui todos meus projetos e estudos<br>saiba um pouco mais sobre mim... 
+<div align="center">
  
-### Linguagens e Tecnologias
-<div align="left">
+# Olá, eu sou o Guilherme 👋
+Sou um **Desenvolvedor Web / Front-end** e trabalho atualmente no Brasil, mostro aqui todos meus projetos e estudos<br>saiba um pouco mais sobre meu lado desenvolvedor... 
+</br>
+</br>
+## Tecnologias
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />  
   <img width="1" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -13,8 +16,8 @@ Sou um **Desenvolvedor Web** e trabalho atualmente no Brasil, mostro aqui todos 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="0.2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
-
 
 ## Onde me encontrar
 
@@ -26,5 +29,6 @@ Sou um **Desenvolvedor Web** e trabalho atualmente no Brasil, mostro aqui todos 
 <img alt="DIMFLIX-OFFICIAL Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=guilhermehfr&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
 
 
+</div>
 
 
