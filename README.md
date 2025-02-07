@@ -1,19 +1,20 @@
 <!--[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://www.adamalston.com/) If you want the template for my gif, email me! --> <!-- [TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript) -->
-## Olá, eu sou o Guilherme.
-Sou um **Desenvolvedor Web** e estou atualmente no Brasil, mostro aqui todos meus projetos e estudos!<br>saiba um pouco mais sobre mim... 
+## Olá, eu sou o Guilherme 👋
+Sou um **Desenvolvedor Web** e trabalho atualmente no Brasil, mostro aqui todos meus projetos e estudos<br>saiba um pouco mais sobre mim... 
  
 ### Linguagens e Tecnologias
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />  
+  <img width="1" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="1" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="0.5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="0.2" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+</div>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Html](https://img.shields.io/badge/-HTML5-000?&logo=html5)
-![Css](https://img.shields.io/badge/-CSS3-000?&logo=css3)
-![GIT](https://img.shields.io/badge/-GIT-000?&logo=git)
-![Github](https://img.shields.io/badge/-Github-000?&logo=GitHub)
-![Trello](https://img.shields.io/badge/-Trello-000?style=flat&logo=trello&logoColor=007ACC)
-
-<a href="https://github.com/ProgrammerUS"></a>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermehfr&layout=compact&langs_count=7&theme=tokyonight"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermehfr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
 ## Onde me encontrar
 
