@@ -23,7 +23,7 @@ Sou um **Desenvolvedor Web / Front-end** e trabalho atualmente no Brasil, mostro
 ## Onde me encontrar
 
 [![Gmail Badge](https://img.shields.io/badge/-guihenrique.bra@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guihenrique.bra@gmail.com)](mailto:guihenrique.bra@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermehe/)](https://www.linkedin.com/in/guilherme-henrique-9208162a9/)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermehe/)](https://www.linkedin.com/in/guilhermehe/)
 [![Instagram](https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/guilherme.hze/)](https://www.instagram.com/guilherme.hze/)
 [![Facebook](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=61566922061917)](https://www.facebook.com/profile.php?id=61566922061917)
 
