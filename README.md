@@ -27,6 +27,8 @@ Sou um **Desenvolvedor Web / Front-end** e trabalho atualmente no Brasil, mostro
 [![Instagram](https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/guilherme.hze/)](https://www.instagram.com/guilherme.hze/)
 [![Facebook](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=61566922061917)](https://www.facebook.com/profile.php?id=61566922061917)
 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=guilhermehfr&theme=default&background=ffffff&ring=ff00ff&fire=ff00ff&currStreakLabel=ff00ff&sideNums=00aaff&dates=000000&sideLabels=00aaff" alt="Streak Stats" width="49%" />
+
 <img alt="DIMFLIX-OFFICIAL Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=guilhermehfr&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
 
 
