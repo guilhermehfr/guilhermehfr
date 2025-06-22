@@ -24,7 +24,6 @@ Sou um **Desenvolvedor Web / Front-end** e trabalho atualmente no Brasil, mostro
 
 [![Gmail Badge](https://img.shields.io/badge/-guihenrique.bra@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guihenrique.bra@gmail.com)](mailto:guihenrique.bra@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermehe/)](https://www.linkedin.com/in/guilhermehe/)
-[![Instagram](https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/guilherme.hze/)](https://www.instagram.com/guilherme.hze/)
 [![Facebook](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=61566922061917)](https://www.facebook.com/profile.php?id=61566922061917)
 
 [![GitHub Streak](https://github-readme-streak-stats-one-gules.vercel.app?user=guilhermehfr&theme=highcontrast&locale=pt_BR&exclude_days=Sun%2CSat&card_width=500&border=000000&background=45%2C005FFF%2C001B29)](https://git.io/streak-stats)
