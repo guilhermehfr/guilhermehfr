@@ -1,6 +1,6 @@
 <!--[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://www.adamalston.com/) If you want the template for my gif, email me! --> <!-- [TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript) -->
 <div align="center">
- 
+  
 # Olá, eu sou o Guilherme 👋
 Sou um **Desenvolvedor Web / Fullstack** e trabalho atualmente no Brasil, mostro aqui todos meus projetos e estudos<br>saiba um pouco mais sobre meu lado desenvolvedor... 
 </br>
