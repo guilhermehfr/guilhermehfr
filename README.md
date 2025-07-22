@@ -2,7 +2,7 @@
 <div align="center">
   
 # Olá, eu sou o Guilherme 👋
-Sou um **Desenvolvedor Web / Fullstack** e trabalho atualmente no Brasil, mostro aqui todos meus projetos e estudos<br>saiba um pouco mais sobre meu lado desenvolvedor... 
+Sou um **Desenvolvedor Web Fullstack** e trabalho atualmente no Brasil, mostro aqui todos meus projetos e estudos<br>saiba um pouco mais sobre meu lado desenvolvedor... 
 </br>
 </br>
 ## Tecnologias
