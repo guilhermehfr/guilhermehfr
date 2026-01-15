@@ -19,6 +19,8 @@ Sou um **Desenvolvedor Web Fullstack** e trabalho atualmente no Brasil, mostro a
   <img width="0.2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" height="40" alt="google cloud platform logo" />
 </div>
 
 ## Onde me encontrar
