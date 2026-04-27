@@ -26,14 +26,18 @@ Sou um **Desenvolvedor Web Fullstack** e trabalho atualmente no Brasil, mostro a
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="0.2" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo" />
-  <img width="0.2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+  <img width="0.2" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" height="40 alt="vitest logo"  />  
+  <img width="1" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" height="40" alt="docker logo"  />  
+  <img width="1" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo" />
   <img width="0.2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" height="40" alt="google cloud platform logo" />
   <img width="0.2" />
 
-$$\small\color{#0D1117}{\text{JavaScript · TypeScript · Node.js · HTML5 · CSS3 · React · Next.js · PostgreSQL · AWS · Google Cloud Platform}}$$
+$$\small\color{#0D1117}{\text{JavaScript · TypeScript · Node.js · HTML5 · CSS3 · React · Next.js · PostgreSQL · Vitest · Docker · AWS · Google Cloud Platform}}$$
 
 </div>
 
