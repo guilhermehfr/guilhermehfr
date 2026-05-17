@@ -29,7 +29,12 @@ loved every second and fpd (frame per s̶e̶c̶o̶n̶d̶s̶  day) I had with my 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40" alt="figma logo" />
   <img width="0.2" />
   <img src="https://github.com/user-attachments/assets/4cf6496a-86d7-4053-8bbf-842d26f16da5" height="40" alt="webpack logo" />
+  <img width="0.2" />
   <img src="https://github.com/user-attachments/assets/a61b7a77-6c05-45bd-bbd6-aa94a17b3091" height="40" alt="vite logo" />
+  <img width="0.2" />
+  <img src="https://tanstack.com/images/logos/logo-color-600.png" height="40" alt="tanstack logo" />
+  
+
 
 </div>
 
@@ -67,16 +72,24 @@ loved every second and fpd (frame per s̶e̶c̶o̶n̶d̶s̶  day) I had with my 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" height="40" alt="google cloud platform logo" />
   <img width="0.2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo" />
-  <img width="0.2" />
+  <img src="https://github.com/user-attachments/assets/c4efe6f4-50f4-4671-83bd-49e78e0cf4e7" height="40" alt="minIO logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="40" alt="linux logo" />
   <img width="0.2" />
+  <img src="https://github.com/user-attachments/assets/78490981-9c32-4097-bda6-439b5dc96b2f" height="40" alt="nginx logo" />
+  <img width="0.2" />
+  <img src="https://github.com/user-attachments/assets/d4102d5d-b0f0-4a3d-a643-799de9adbcd2" height="40" alt="kong logo" />
+  <img width="0.2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" height="40" alt="docker logo" />
+  <img width="0.2" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" height="40" alt="githubactions logo" />
   <img width="0.2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" height="40" alt="vitest logo" />
   <img width="0.2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" height="35" alt="jest logo" />
   <img width="0.2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/k6/k6-original.svg" height="40" alt="grafana k6 logo" />
+  
+
 </div>
 
 ## 🤝 Let's connect
