@@ -7,7 +7,7 @@ loved every second and fpd (frame per s̶e̶c̶o̶n̶d̶s̶  day) I had with my 
 
 > Full Stack Developer & AI Training Specialist with 5+ years of self-taught experience.<br>
 > I design and ship robust systems - from SaaS products and real-time multiplayer backends to microservices and modern frontends.<br>
-> Currently @ [Outlier](https://outlier.ai) as **Freelance AI Training Specialist** *(Apr 2026 – Present)*
+> Currently @ [Alignerr](https://www.alignerr.com/) as **AI Evaluator** *(Jun 2026 - Present)* and @ [Outlier](https://outlier.ai) as **Multimodal AI Specialist** *(Apr 2026 – Present)*
 
 ## 🛠 Technologies
 
