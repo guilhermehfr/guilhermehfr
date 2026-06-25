@@ -5,7 +5,7 @@ loved every second and fpd (frame per s̶e̶c̶o̶n̶d̶s̶  day) I had with my 
 
 ![banner](https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,100:00abf0&height=200&text=Guilherme%20Henrique&fontColor=ffffff&fontSize=45&animation=fadeIn&desc=Full%20Stack%20Developer&descSize=18&descAlignY=75)
 
-> Full Stack Developer & AI Training Specialist with 5+ years of self-taught experience.<br>
+> Full Stack Developer & AI Evaluator with 5+ years of self-taught experience.<br>
 > I design and ship robust systems - from SaaS products and real-time multiplayer backends to microservices and modern frontends.<br>
 > Currently @ [Alignerr](https://www.alignerr.com/) as **AI Evaluator** *(Jun 2026 - Present)*
 
