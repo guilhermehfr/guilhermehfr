@@ -89,7 +89,6 @@ loved every second and fpd (frame per s̶e̶c̶o̶n̶d̶s̶  day) I had with my 
   <img width="0.2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/k6/k6-original.svg" height="40" alt="grafana k6 logo" />
   
-
 </div>
 
 ## 🤝 Let's connect
@@ -97,7 +96,5 @@ loved every second and fpd (frame per s̶e̶c̶o̶n̶d̶s̶  day) I had with my 
 [![Gmail](https://img.shields.io/badge/Gmail-guihenrique.bra%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:guihenrique.bra@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-guilhermehe-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermehe/)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph/?username=guilhermehfr&bg_color=00000000&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
-
-$$\small\color{gray}{\textit{"Talk is cheap. Show me the code." — Linus Torvalds}}$$
+$$\small\color{gray}{\textit{"Talk is cheap. Show me the code." - Linus Torvalds}}$$
 $$\scriptsize\color{#0d1117}{\text{Hello world! o/}}$$
