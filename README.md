@@ -95,6 +95,3 @@ loved every second and fpd (frame per s̶e̶c̶o̶n̶d̶s̶  day) I had with my 
 
 [![Gmail](https://img.shields.io/badge/Gmail-guihenrique.bra%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:guihenrique.bra@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-guilhermehe-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermehe/)
-
-$$\small\color{gray}{\textit{"Talk is cheap. Show me the code." - Linus Torvalds}}$$
-$$\scriptsize\color{#0d1117}{\text{Hello world! o/}}$$
