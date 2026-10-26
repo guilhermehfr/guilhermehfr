@@ -71,7 +71,7 @@ loved every second and fpd (frame per s̶e̶c̶o̶n̶d̶s̶  day) I had with my 
   <img width="0.2" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" height="40" alt="google cloud platform logo" />
   <img width="0.2" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain.svg" height="40" alt="aws logo" />
   <img src="https://github.com/user-attachments/assets/c4efe6f4-50f4-4671-83bd-49e78e0cf4e7" height="40" alt="minIO logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="40" alt="linux logo" />
   <img width="0.2" />
